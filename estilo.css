@@ -69,10 +69,12 @@ ul{
     align-items: center;
     padding: 0px 30px;
     text-align: center;
+    
 }
 
 .aplicar-detalles img{
-    height: 500px;
+    width: 50%;
+    
 }
 
 .aplicar-detalles2 img{
@@ -94,6 +96,11 @@ ul{
     align-items: center;
     padding: 0px ;
     text-align: center;
+    
+}
+
+.aplicar-detalles figure{
+  padding-top: 40px;
 }
 
 .header{
