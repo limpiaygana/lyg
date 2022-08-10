@@ -159,7 +159,10 @@ header li{
     color: white;
 }
 
-
+.principal a{
+    color: white;
+    text-decoration: none;
+}
 
 .somos{
     background-color:#073763ff;
